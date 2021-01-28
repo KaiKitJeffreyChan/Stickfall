@@ -1,0 +1,33 @@
+
+dino.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dino
+  rotate: false
+  xy: 1, 1
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+dino (1)
+  rotate: false
+  xy: 64, 5
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+dino (3)
+  rotate: false
+  xy: 127, 5
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+dino (2)
+  rotate: false
+  xy: 190, 4
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1

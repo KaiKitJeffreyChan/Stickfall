@@ -1,0 +1,32 @@
+PikachuSpritePackage.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pikaTaunt
+  rotate: false
+  xy: 338, 215
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pikaTaunt1
+  rotate: false
+  xy: 380, 215
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pikaTaunt2
+  rotate: false
+  xy: 422, 215
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pikaTaunt3
+  rotate: false
+  xy: 464, 215
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

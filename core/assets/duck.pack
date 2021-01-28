@@ -1,0 +1,47 @@
+
+duck.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+duck (1)
+  rotate: false
+  xy: 1, 3
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+duck (6)
+  rotate: false
+  xy: 39, 6
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+duck (2)
+  rotate: false
+  xy: 75, 8
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+duck
+  rotate: false
+  xy: 109, 1
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+duck (4)
+  rotate: false
+  xy: 141, 6
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+duck (5)
+  rotate: false
+  xy: 172, 7
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1

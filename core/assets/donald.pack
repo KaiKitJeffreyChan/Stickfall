@@ -1,0 +1,47 @@
+
+donald.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trump_run (1)
+  rotate: false
+  xy: 1, 1
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+trump_run (2)
+  rotate: false
+  xy: 68, 3
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+trump_run (3)
+  rotate: false
+  xy: 135, 4
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+trump_run (4)
+  rotate: false
+  xy: 201, 4
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+trump_run (5)
+  rotate: false
+  xy: 267, 4
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+trump_run
+  rotate: false
+  xy: 333, 6
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1

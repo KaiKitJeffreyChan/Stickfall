@@ -1,0 +1,80 @@
+
+Parrallax.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clouds_BG
+  rotate: false
+  xy: 1, 655
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+clouds_MG
+  rotate: false
+  xy: 1, 437
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: 1
+clouds_MG_1_lightened
+  rotate: false
+  xy: 387, 655
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+clouds_MG
+  rotate: false
+  xy: 1, 219
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: 2
+clouds_MG
+  rotate: false
+  xy: 387, 437
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: 3
+cloud_lonely
+  rotate: false
+  xy: 1, 1
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+mountains
+  rotate: false
+  xy: 387, 219
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+mountains_lightened
+  rotate: false
+  xy: 387, 1
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+
+Parrallax2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sky
+  rotate: false
+  xy: 1, 1
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+sky_lightened
+  rotate: false
+  xy: 387, 1
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
